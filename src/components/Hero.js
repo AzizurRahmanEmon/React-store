@@ -9,7 +9,7 @@ const Hero = () => {
     <article className="content">
       <h1>design your <br/>
       comfort zone</h1>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis officia inventore earum, cumque atque alias exercitationem totam sit ut molestiae?</p>
+      <p>Whether you just moved into a new home or looking to revamp your current one, we are here to inspire you with affordable home furniture solutions, there is a piece of furniture to every corner of your home. Create a home that is perfect for you.</p>
       <Link to='/products' className='btn hero-btn'>shop now</Link>
     </article>
     <article className="img-container">
