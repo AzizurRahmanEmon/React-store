@@ -14,7 +14,7 @@ const AboutPage = () => {
           <div className="underline"></div>
         </div>
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laboriosam facilis temporibus similique praesentium in, natus optio voluptatem, nemo facere alias fuga porro architecto quae autem cumque accusantium eum quisquam? Vel reiciendis laudantium sit aspernatur assumenda perferendis necessitatibus amet error magnam quisquam inventore quos, distinctio quod fuga ipsam. Quia, eos deleniti?
+          We believe in creativity as one of the major forces of progress. With this idea, we traveled throughout the country to find exceptional artisans and bring their unique handcrafted objects to connoisseurs everywhere.
         </p>
       </article>
     </Wrapper>
